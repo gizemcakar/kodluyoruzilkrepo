@@ -1,0 +1,203 @@
+body {
+        background-color: ivory;
+}
+
+
+.page-top {
+        background-color: maroon;
+        margin-bottom: 20px;
+}
+
+.tarifler-page-header {
+                        background-color: white;
+                        color:purple; 
+                        font-size:25px;
+                        font-weight: bold;
+}
+
+.tarif-list-item {
+                    list-style-type: none;
+                    margin-top:10px;
+}
+
+.tarif-sublist-item {
+                text-decoration-line: none;
+                color:lightcoral;
+}
+
+#cikolatali-kek-title {
+                        text-align: center; 
+                        color:purple; 
+                        font-size: 25px; 
+                        font-weight: bold; 
+                        margin-top:20px"
+}
+
+#logo {
+        margin-left:4px; 
+        margin-top:4px;
+}
+
+.giris-yap-button {
+                    float: right; 
+                    margin-right: 25px; 
+                    margin-top: 25px;
+}
+
+#giris-yap-button-name {
+                        text-decoration-line:none; 
+                        color: black;
+}
+
+#giris-yap-button-logo {
+                        width:16px;
+                        height:16px;
+}
+
+#tarif-ara-text-button {
+                        position:absolute;
+                        top:60px;
+                        left:500px;
+}
+
+#tarif-ara-button {
+                    position:absolute;
+                    top:60px;
+                    left:677px;
+}
+
+#tarif-ekle-button {
+                        position:absolute;
+                        left:770px;
+                        top:50px;
+                        border-style: dotted;
+                        border-color:orange;
+                        border-width:5px;
+                        font-size: 20px;
+                        color:maroon;
+}
+
+#sekmeler {
+            background-color: maroon;
+            margin-bottom:20px;
+            text-align: center;
+            padding:15px;
+            font-size: 20px;
+}
+
+.sekme-button {
+                text-decoration-line:none; 
+                color:orange;
+                font-weight: bold;
+}
+
+#cikolatali-kek-figure-in-page {
+                                text-align: center;
+                                margin-left: auto;
+                                margin-right: auto;
+}
+
+#cikolatali-kek-picture {
+                            width: 450px;
+                            height: 370px
+}
+
+#deftere-ekle-button {
+                        margin-left: 460px;
+                        border-style: dotted;
+                        border-color:orange;
+                        border-width:5px;
+                        font-size: 20px;
+                        color:purple;
+}
+
+#yorumlar-button {
+                    border-style: dotted;
+                    border-color:orange;
+                    border-width:5px;
+                    font-size: 20px;
+                    color:purple;
+}
+
+#paylas-button {
+                    border-style: dotted;
+                    border-color:orange;
+                    border-width:5px;
+                    font-size: 20px;
+                    color:purple;
+}
+
+.tarif-titles {
+                    color:purple;
+                    font-weight: bold;
+}
+
+.tarif-subtitle {
+                    font-style:italic;
+}
+
+#bende-yaptim-button {
+                    display:block;
+                    margin-right:auto;
+                    margin-left:auto;
+                    font-weight: bold;
+}
+
+#bende-yaptim-button-name {
+                            text-decoration-line:none;
+                            color: red;
+}
+
+#bende-yaptim-picture {
+                        width:150px;
+                        height:150px;
+}
+
+#anasayfa-figcaption {
+                        text-align: center;
+                        font-size: 80px;
+                        background-image:url(cikolatali-pasta.jpg);
+                        background-position:center;
+                        background-repeat: no-repeat;
+                        background-size:contain;
+}
+
+#menuler-sayfasi-figure {
+                            text-align:center;
+                            margin-top:150px;
+}
+
+#menuler-sayfasi-picture {
+                            height: 110px; 
+                            width: 120px;
+}
+
+#menuler-sayfasi-figcaption {
+                                font-size: 23px;
+                                font-style: italic;
+                                text-align: center;
+}
+
+#videolar-page {
+                    width:100%;
+                    text-align:center;
+                    margin-top:75px;
+}
+
+.videolar-categorie-name {
+                    text-decoration-line: none;
+                    color:lightcoral;
+                    font-size:25px;
+                    margin-left:80px;
+}
+
+.videolar-categorie-picture {
+                        width:240px;
+                        height: 200px;
+                        margin-left:80px;
+}
+
+.video-categories-in-line {
+                        display:inline-block;
+}
+
