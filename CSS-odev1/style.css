@@ -30,7 +30,7 @@ body {
                         color:purple; 
                         font-size: 25px; 
                         font-weight: bold; 
-                        margin-top:20px"
+                        margin-top:20px;
 }
 
 #logo {
@@ -79,7 +79,7 @@ body {
 
 #sekmeler {
             background-color: maroon;
-            margin-bottom:20px;
+            margin:10px auto;
             text-align: center;
             padding:15px;
             font-size: 20px;
@@ -93,13 +93,12 @@ body {
 
 #cikolatali-kek-figure-in-page {
                                 text-align: center;
-                                margin-left: auto;
-                                margin-right: auto;
+                                margin: 0 auto;
 }
 
 #cikolatali-kek-picture {
                             width: 450px;
-                            height: 370px
+                            height: 370px;
 }
 
 #deftere-ekle-button {
@@ -137,16 +136,14 @@ body {
 }
 
 #bende-yaptim-button {
-                    display:block;
-                    margin-right:auto;
-                    margin-left:auto;
-                    font-weight: bold;
+                        text-decoration-line:none;
+                        display:block;
+                        margin: 0 auto;
+                        color:purple;
+                        border-color:sandybrown;
+                        font-weight: bold;
 }
 
-#bende-yaptim-button-name {
-                            text-decoration-line:none;
-                            color: red;
-}
 
 #bende-yaptim-picture {
                         width:150px;
@@ -179,25 +176,26 @@ body {
 }
 
 #videolar-page {
-                    width:100%;
-                    text-align:center;
-                    margin-top:75px;
+                float:left;
+                width:100%;
+                margin: 75px auto;
+                text-align:center;
 }
 
 .videolar-categorie-name {
                     text-decoration-line: none;
                     color:lightcoral;
                     font-size:25px;
-                    margin-left:80px;
 }
 
 .videolar-categorie-picture {
                         width:240px;
                         height: 200px;
-                        margin-left:80px;
 }
 
 .video-categories-in-line {
-                        display:inline-block;
+                        margin:40px auto;
+                        float:left;
+                        width:33%
 }
 
